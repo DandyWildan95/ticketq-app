@@ -21,7 +21,7 @@ TicketQ Indonesia is a modern web application for event ticket management in Ind
 - Node.js (latest LTS version recommended)
 - npm or yarn
 ### Setup
-1. 1.
+1. 
    Clone the repository:
    
    ```
@@ -29,19 +29,19 @@ TicketQ Indonesia is a modern web application for event ticket management in Ind
    DandyWildan95/ticketq-app.git
    cd ticketq-app
    ```
-2. 2.
+2. 
    Install dependencies:
    
    ```
    npm install
    ```
-3. 3.
+3. 
    Start the development server:
    
    ```
    npm run dev
    ```
-4. 4.
+4. 
    Build for production:
    
    ```
